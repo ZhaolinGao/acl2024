@@ -1,1 +1,3 @@
-# acl2024
+# Embedding visualization
+
+![](embedding_visualization.png)
